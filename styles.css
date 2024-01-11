@@ -67,6 +67,14 @@ body {
     cursor: pointer;
 }
 
+.profile_image {
+    display: flex;
+}
+.profile_image > p {
+    padding-left: 15px;
+    font: size 14px; ;
+    font-style: bold;
+}
 
 
 .attribution { 
