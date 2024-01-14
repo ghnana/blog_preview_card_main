@@ -31,7 +31,7 @@ body {
     padding: 1.25rem;
     border-radius: 0.625rem;
     border: 1px solid var(--black);
-    box-shadow: 15px 15px 15px rgba(0, 0, 0, 1);
+    box-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
     margin-bottom: 1.25rem;
     margin: 15px 15px;
 }
@@ -54,12 +54,13 @@ body {
 
 .container p {
     color: var(--grey);
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 14px;
     padding: 5px 0;
 }
 .container p.topic span {
     color: var(--black);
+    font-size: 24px;
+    font-weight: 700;
 }
 
 
